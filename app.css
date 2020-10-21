@@ -1,0 +1,10 @@
+#song-results-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    word-wrap: normal;
+    width: 200px
+}
